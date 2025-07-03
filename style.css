@@ -1,0 +1,29 @@
+
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+    color: #333;
+}
+header, footer {
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+.products {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+}
+.products ul {
+    list-style-type: none;
+    padding: 0;
+}
+.products li {
+    padding: 8px 0;
+    border-bottom: 1px solid #ddd;
+}
